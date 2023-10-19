@@ -13,6 +13,7 @@ pip install pandas
 pip install numpy
 pip install Pillow
 pip install brisque
+
 ```
 
 # Instructions
