@@ -31,7 +31,7 @@ IMAGES_FOLDER = "C:\\[example]\ImagesToEncode"
 OUTPUT_DIRECTORY = r'C:\\[example]\encoded_images'
 
 # File path of Excel file where data will be transferred
-EXCEL_FILE = "C:\\Users\marko\Desktop\image_quality_results.xlsx"   
+EXCEL_FILE = "C:\\Users\[example]\image_quality_results.xlsx"   
 
 # List of colour channels to be encoded
 COLOUR_CHANNELS_LIST = ["RGB","R", "G", "B", "RG", "RB", "GB"]
